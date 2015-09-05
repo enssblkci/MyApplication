@@ -42,7 +42,7 @@ public class MainActivity extends ActionBarActivity {
                 catch (Exception e){
                     e.printStackTrace();
                 }
-         //deneme
+         //denemeaS
             }
         };
         myThread.start();
